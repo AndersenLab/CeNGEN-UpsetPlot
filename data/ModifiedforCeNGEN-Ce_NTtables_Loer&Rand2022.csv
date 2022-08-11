@@ -1,0 +1,416 @@
+N,Neuron class,Neuron,h / m,Neurotransmitter 1,Neurotransmitter 2,Soma Location,Notes ,WA - Lineage,WA - Description
+1,ADA,ADAL,,Glutamate (Glu),,Head,,AB plapaaaapp,Ring interneuron
+2,,ADAR,,Glutamate (Glu),,Head,,AB prapaaaapp,Ring interneuron
+3,ADE,ADEL,,Dopamine (DA),,Head,  Neuron Class - Blue - Sensory neuron,AB plapaaaapa,"Anterior deirid, sensory neuron"
+4,,ADER,,Dopamine (DA),,Head,,AB prapaaaapa,"Anterior deirid, sensory neuron"
+5,ADF,ADFL,,Acetylcholine (ACh),Serotonin / 5HT,Head,*also express eat-4/VGluT in adult male only,AB alpppppaa,Amphid neuron
+6,,ADFR,,Acetylcholine (ACh),Serotonin / 5HT,Head,*also express eat-4/VGluT in adult male only,AB praaappaa,Amphid neuron
+7,ADL,ADLL,,Glutamate (Glu),,Head,,AB alppppaad,Amphid neuron
+8,,ADLR,,Glutamate (Glu),,Head,,AB praaapaad,Amphid neuron
+9,AFD,AFDL,,Glutamate (Glu),,Head,,AB alpppapav,Amphid finger cell
+10,,AFDR,,Glutamate (Glu),,Head,,AB praaaapav,Amphid finger cell
+11,AIA,AIAL,,Acetylcholine (ACh),,Head, Neuron Class - Gray - Interneuron,AB plppaappa,Amphid interneuron
+12,,AIAR,,Acetylcholine (ACh),,Head,,AB prppaappa,Amphid interneuron
+13,AIB,AIBL,,Glutamate (Glu),,Head,,AB plaapappa,Amphid interneuron
+14,,AIBR,,Glutamate (Glu),,Head,,AB praapappa,Amphid interneuron
+15,AIM,AIML,,Serotonin / 5HT,Glu,Head,Possibly '5HT clearance neuron' only,AB plpaapppa,Ring interneuron
+16,,AIMR,,Serotonin / 5HT,Glu,Head,Possibly '5HT clearance neuron' only,AB prpaapppa,Ring interneuron
+17,AIN,AINL,,Acetylcholine (ACh),,Head,,AB alaaaalal,Ring interneuron
+18,,AINR,,Acetylcholine (ACh),,Head,,AB alaapaaar,Ring interneuron
+19,AIY,AIYL,,Acetylcholine (ACh),,Head,,AB plpapaaap,Amphid interneuron
+20,,AIYR,,Acetylcholine (ACh),,Head,,AB prpapaaap,Amphid interneuron
+21,AIZ,AIZL,,Glutamate (Glu),,Head,,AB plapaaapav,Amphid interneuron
+22,,AIZR,,Glutamate (Glu),,Head,,AB prapaaapav,Amphid interneuron
+23,ALA,ALA,,Unknown,,Head,"P16: Newly assigned as mechanosensory (based on Sanders et al., 2013)",AB alapppaaa,"Neuron, sends processes laterally and along dorsal cord"
+24,ALM,ALML,,Glutamate (Glu),,Body wall,,AB arppaappa,Anterior lateral microtubule cell
+25,,ALMR,,Glutamate (Glu),,Body wall,,AB arpppappa,Anterior lateral microtubule cell
+26,ALN,ALNL,,Acetylcholine (ACh),,Tail,P16: Classified as sensory because of expression of oxygen sensors,AB plapappppap,Neuron associated with ALM
+27,,ALNR,,Acetylcholine (ACh),,Tail,,AB prapappppap,Neuron associated with ALM
+28,AQR,AQR,,Glutamate (Glu),,Head,,QR.ap,"Neuron, basal body. not part of a sensillum, projects into ring"
+29,AS,AS1,,Acetylcholine (ACh),,Head - RVG, Neuron Class - Light Red - Motor neuron,P1.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+30,,AS2,,Acetylcholine (ACh),,VNC,,P2.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+31,,AS3,,Acetylcholine (ACh),,VNC,,P3.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+32,,AS4,,Acetylcholine (ACh),,VNC,,P4.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+33,,AS5,,Acetylcholine (ACh),,VNC,,P5.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+34,,AS6,,Acetylcholine (ACh),,VNC,,P6.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+35,,AS7,,Acetylcholine (ACh),,VNC,,P7.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+36,,AS8,,Acetylcholine (ACh),,VNC,,P8.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+37,,AS9,,Acetylcholine (ACh),,VNC,,P9.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+38,,AS10,,Acetylcholine (ACh),,VNC,,P10.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+39,,AS11,,Acetylcholine (ACh),Glutamate (Glu) - adult male-specific,Tail - PAG,*express eat-4/VGluT in adult male only,P11.apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart"
+40,ASE,ASEL,,Glutamate (Glu),,Head,,AB alppppppaa,"Amphid neurons, single ciliated endings"
+41,,ASER,,Glutamate (Glu),,Head,,AB praaapppaa,"Amphid neurons, single ciliated endings"
+42,ASG,ASGL,,Glutamate (Glu),Serotonin / 5HT (conditional),Head,,AB plaapapap,"Amphid neurons, single ciliated endings"
+43,,ASGR,,Glutamate (Glu),Serotonin / 5HT (conditional),Head,,AB praapapap,"Amphid neurons, single ciliated endings"
+44,ASH,ASHL,,Glutamate (Glu),,Head,,AB plpaappaa,"Amphid neurons, single ciliated endings"
+45,,ASHR,,Glutamate (Glu),,Head,,AB prpaappaa,"Amphid neurons, single ciliated endings"
+46,ASI,ASIL,,Unknown,,Head,,AB plaapapppa,"Amphid neurons, single ciliated endings"
+47,,ASIR,,Unknown,,Head,,AB praapapppa,"Amphid neurons, single ciliated endings"
+48,ASJ,ASJL,,Acetylcholine (ACh),,Head,,AB alpppppppa,"Amphid neurons, single ciliated endings"
+49,,ASJR,,Acetylcholine (ACh),,Head,,AB praaappppa,"Amphid neurons, single ciliated endings"
+50,ASK,ASKL,,Glutamate (Glu),,Head,,AB alpppapppa,"Amphid neurons, single ciliated endings"
+51,,ASKR,,Glutamate (Glu),,Head,,AB praaaapppa,"Amphid neurons, single ciliated endings"
+52,AUA,AUAL,,Glutamate (Glu),,Head,,AB alpppppppp,"Neuron, process runs with amphid processes but lacks ciliated ending"
+53,,AUAR,,Glutamate (Glu),,Head,,AB praaappppp,"Neuron, process runs with amphid processes but lacks ciliated ending"
+54,AVA,AVAL,,Acetylcholine (ACh),,Head - Lateral G,possibly GABAergic,AB alppaaapa,Ventral cord interneuron
+55,,AVAR,,Acetylcholine (ACh),,Head - Lateral G,possibly GABAergic,AB alaappapa,Ventral cord interneuron
+56,AVB,AVBL,,Acetylcholine (ACh),,Head - Lateral G,possibly GABAergic,AB plpaapaap,Ventral cord interneuron
+57,,AVBR,,Acetylcholine (ACh),,Head - Lateral G,possibly GABAergic,AB prpaapaap,Ventral cord interneuron
+58,AVD,AVDL,,Acetylcholine (ACh),,Head,,AB alaaapalr,Ventral cord interneuron
+59,,AVDR,,Acetylcholine (ACh),,Head,,AB alaaapprl,Ventral cord interneuron
+60,AVE,AVEL,,Acetylcholine (ACh),,Head,,AB alpppaaaa,"Ventral cord interneuron, like AVD but outputs restricted to anterior cord"
+61,,AVER,,Acetylcholine (ACh),,Head,,AB praaaaaaa,"Ventral cord interneuron, like AVD but outputs restricted to anterior cord"
+62,AVF,AVFL,,Unknown,,Head - RVG,possible 'GABA clearance' neuron,P1.aaaa/ W.aaa,Interneuron
+63,,AVFR,,Unknown,,Head - RVG,possible 'GABA clearance' neuron,P1.aaaa/ W.aaa,Interneuron
+64,AVG,AVG,,Acetylcholine (ACh),,Head,,AB prpapppap,Ventral cord interneuron
+65,AVH,AVHL,,Unknown,,Head,,AB alapaaaaa,"Neuron, mainly postsynaptic in ventral cord and presynaptic in the ring"
+66,,AVHR,,Unknown,,Head,,AB alappapaa,"Neuron, mainly postsynaptic in ventral cord and presynaptic in the ring"
+67,AVJ,AVJL,,Unknown,,Head - Lateral G,possibly GABAergic,AB alapapppa,"Neuron, synapses like AVHL/R"
+68,,AVJR,,Unknown,,Head - Lateral G,possibly GABAergic,AB alapppppa,"Neuron, synapses like AVHL/R"
+69,AVK,AVKL,,Unknown,,Head,,AB plpapapap,Ring and ventral cord interneuron
+70,,AVKR,,Unknown,,Head,,AB prpapapap,Ring and ventral cord interneuron
+71,AVL,AVL,,GABA,,Head,,AB prpappaap,Ring and ventral cord interneuron and an excitatory GABAergic motor neuron for rectal muscles. Few synapses
+72,AVM,AVM,,Glutamate (Glu),,Body wall,, QR.paa,"Anterior ventral microtubule cell, touch receptor"
+73,AWA,AWAL,,Unknown,,Head,,AB plaapapaa,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath"
+74,,AWAR,,Unknown,,Head,,AB praapapaa,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath"
+75,AWB,AWBL,,Acetylcholine (ACh),,Head,,AB alpppppap,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath"
+76,,AWBR,,Acetylcholine (ACh),,Head,,AB praaappap,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath"
+77,AWC,AWCL,,Glutamate (Glu),,Head,,AB plpaaaaap,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath"
+78,,AWCR,,Glutamate (Glu),,Head,,AB prpaaaaap,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath"
+79,BAG,BAGL,,Glutamate (Glu),,Head,,AB alppappap,"Neuron, ciliated ending in head, no supporting cells, associated with ILso"
+80,,BAGR,,Glutamate (Glu),,Head,,AB arappppap,"Neuron, ciliated ending in head, no supporting cells, associated with ILso"
+81,BDU,BDUL,,Unknown,,Body wall,,AB arppaappp,"Neuron, process runs along excretory canal and into ring, unique darkly staining synaptic vesicles"
+82,,BDUR,,Unknown,,Body wall,,AB arpppappp,"Neuron, process runs along excretory canal and into ring, unique darkly staining synaptic vesicles"
+83,CA,CA1,m,Acetylcholine (ACh),Serotonin / 5HT? (weak/variable),VNC,,P3.aapa,"Male specific cells, ventral cord, not constructed"
+84,,CA2,m,Acetylcholine (ACh),Serotonin / 5HT? (weak/variable),VNC,,P4.aapa,"Male specific cells, ventral cord, not constructed"
+85,,CA3,m,Acetylcholine (ACh),Serotonin / 5HT? (weak/variable),VNC,,P5.aapa,"Male specific cells, ventral cord, not constructed"
+86,,CA4,m,Acetylcholine (ACh),Serotonin / 5HT? (weak/variable),VNC,,P6.aapa,"Male specific neuron, ventral cord, innervates dorsal muscles"
+87,,CA5,m,Acetylcholine (ACh),,VNC,,P7.aapa,"Male specific neuron, ventral cord, innervates dorsal muscles"
+88,,CA6,m,Acetylcholine (ACh),,VNC,,P8.aapa,"Male specific neuron, ventral cord, innervates dorsal muscles"
+89,,CA7,m,"ACh (unc-17, no cho-1)",,VNC,"P16: no cho-1 expression, lower unc-17 expression than CA1-6",P9.aapa,"Male specific neuron, ventral cord, innervates dorsal muscles"
+90,,CA8,m,"ACh (unc-17, no cho-1)",,VNC,"P16: no cho-1 expression, lower unc-17 expression than CA1-6",P10.aapa,"Male specific cell, ventral cord, neuron-like but lacks synapses"
+91,,CA9,m,"ACh (unc-17, no cho-1)",,VNC,"P16: no cho-1 expression, lower unc-17 expression than CA1-6",P11.aapa,"Male specific cell, ventral cord, neuron-like but lacks synapses"
+92,CAN,CANL,,unknown monamine* ,,Body wall,WA: unknown function; P16: * expresses cat-1 / VMAT,AB alapaaapa,"Process runs along excretory canal, no synapses, essential for survival"
+93,,CANR,,unknown monamine* ,,Body wall,WA: unknown function; P16: * expresses cat-1 / VMAT,AB alappappa,"Process runs along excretory canal, no synapses, essential for survival"
+94,CEM,CEMDL,m,Acetylcholine (ACh),,Head,,AB plaaaaaap,"Male specific cephalic neurons (programmed cell death in hermaphrodite embryo) open to outside, possible function in male chemotaxis toward hermaphrodite"
+95,,CEMDR,m,Acetylcholine (ACh),,Head,,AB arpapaaap,"Male specific cephalic neurons (programmed cell death in hermaphrodite embryo) open to outside, possible function in male chemotaxis toward hermaphrodite"
+96,,CEMVL,m,Acetylcholine (ACh),,Head,,AB plpaapapp,"Male specific cephalic neurons (programmed cell death in hermaphrodite embryo) open to outside, possible function in male chemotaxis toward hermaphrodite"
+97,,CEMVR,m,Acetylcholine (ACh),,Head,,AB prpaapapp,"Male specific cephalic neurons (programmed cell death in hermaphrodite embryo) open to outside, possible function in male chemotaxis toward hermaphrodite"
+98,CEP,CEPDL,,Dopamine (DA),,Head,,AB plaaaaappa,"Cephalic neurons, contain dopamine"
+99,,CEPDR,,Dopamine (DA),,Head,,AB arpapaappa,"Cephalic neurons, contain dopamine"
+100,,CEPVL,,Dopamine (DA),,Head,,AB plpaappppa,"Cephalic neurons, contain dopamine"
+101,,CEPVR,,Dopamine (DA),,Head,,AB prpaappppa,"Cephalic neurons, contain dopamine"
+102,CP0,CP0,m,Unknown,,VNC,possibly Glutamatergic,P2.aap,Male specific neuron in ventral cord
+103,CP,CP1,m,Serotonin / 5HT,,VNC,,P3.aapp,Male specific neuron in ventral cord
+104,,CP2,m,Serotonin / 5HT,,VNC,,P4.aapp,Male specific neuron in ventral cord
+105,,CP3,m,Serotonin / 5HT,,VNC,,P5.aapp,Male specific neuron in ventral cord
+106,,CP4,m,Serotonin / 5HT,,VNC,,P6.aapp,Male specific motor neuron in ventral cord
+107,,CP5,m,Serotonin / 5HT,,VNC,possibly Glutamatergic,P7.aapp,Male specific motor neuron in ventral cord
+108,,CP6,m,Serotonin / 5HT,,VNC,possibly Glutamatergic,P8.aapp,Male specific motor neuron in ventral cord
+109,,CP7,m,Unknown,,VNC,possibly Glutamatergic,P9.aapp,Male specific motor neuron in ventral cord
+110,,CP8,m,Unknown,,VNC,,P10.aapp,"Male specific interneuron, projects into preanal ganglion"
+111,,CP9,m,GABA,,VNC,,P11.aapp,"Male specific interneuron, projects into preanal ganglion"
+112,DA,DA1,,Acetylcholine (ACh),,Head - RVG,,AB prppapaap,"Ventral cord motor neurons, innervate dorsal muscles"
+113,,DA2,,Acetylcholine (ACh),,VNC,,AB plppapapa,"Ventral cord motor neurons, innervate dorsal muscles"
+114,,DA3,,Acetylcholine (ACh),,VNC,,AB prppapapa,"Ventral cord motor neurons, innervate dorsal muscles"
+115,,DA4,,Acetylcholine (ACh),,VNC,,AB plppapapp,"Ventral cord motor neurons, innervate dorsal muscles"
+116,,DA5,,Acetylcholine (ACh),,VNC,,AB prppapapp,"Ventral cord motor neurons, innervate dorsal muscles"
+117,,DA6,,Acetylcholine (ACh),,VNC,,AB plpppaaap,"Ventral cord motor neurons, innervate dorsal muscles"
+118,,DA7,,Acetylcholine (ACh),,VNC,,AB prpppaaap,"Ventral cord motor neurons, innervate dorsal muscles"
+119,,DA8,,Acetylcholine (ACh),,Tail - PAG,,AB prpapappp,"Ventral cord motor neurons, innervate dorsal muscles"
+120,,DA9,,Acetylcholine (ACh),,Tail - PAG,,AB plpppaaaa,"Ventral cord motor neurons, innervate dorsal muscles"
+121,DB,DB1,,Acetylcholine (ACh),,Head - RVG,WA: also proprioceptive sensory function,AB plpaaaapp,"Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor"
+122,,DB2,,Acetylcholine (ACh),,Head - RVG,,AB arappappa,"Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor"
+123,,DB3,,Acetylcholine (ACh),,VNC,,AB prpaaaapp,"Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor"
+124,,DB4,,Acetylcholine (ACh),,VNC,,AB prpappapp,"Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor"
+125,,DB5,,Acetylcholine (ACh),,VNC,,AB plpapappp,"Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor"
+126,,DB6,,Acetylcholine (ACh),,VNC,,AB plppaappp,"Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor"
+127,,DB7,,Acetylcholine (ACh),,VNC,,AB prppaappp,"Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor"
+128,DD,DD1,,GABA,,Head - RVG,,AB plppappap,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1"
+129,,DD2,,GABA,,VNC,,AB prppappap,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1"
+130,,DD3,,GABA,,VNC,,AB plppapppa,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1"
+131,,DD4,,GABA,,VNC,,AB prppapppa,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1"
+132,,DD5,,GABA,,VNC,,AB plppapppp,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1"
+133,,DD6,,GABA,,Tail - PAG,,AB prppapppp,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1"
+134,DVA,DVA,,Acetylcholine (ACh),,Tail - PAG,Neuron Class - Lavender - Polymodal (at least 2: sensory-motor-interneuron),AB prppppapp,"Ring interneurons, cell bodies in dorsorectal ganglion"
+135,DVB,DVB,,GABA,,Tail - Dorsorectal G,,K.p,An excitatory GABAergic motor neuron/interneuron located in dorso-rectal ganglion. Innervates rectal muscles
+136,DVC,DVC,,Glutamate (Glu),,Tail - Dorsorectal G,,C aapaa,"Ring interneurons, cell bodies in dorsorectal ganglion"
+137,DVE,DVE,m,Unknown,,Tail - DRG,,B.ppap,"Male specific interneuron, cell body in dorsorectal ganglion"
+138,DVF,DVF,m,Unknown,,Tail - DRG,,B.ppppa,"Male specific interneuron, cell body in dorsorectal ganglion"
+139,DX1/2,DX1,m,"ACh (unc-17, no cho-1)",,Tail - DRG,,F.lvda,"Male specific interneuron, cell body in dorsorectal ganglion"
+140,DX1/2,DX2,m,"ACh (unc-17, no cho-1)",,Tail - DRG,,F.rvda,"Male specific interneuron, cell body in dorsorectal ganglion"
+141,DX3/4,DX3,m,Unknown,,Tail - PAG,,U.laa,"Male specific interneuron, cell body in pre-anal ganglion"
+142,DX3/4,DX4,m,Unknown,,Tail - PAG,,U.raa,"Male specific interneuron, cell body in pre-anal ganglion"
+143,EF,EF1,m,GABA,,Tail - DRG,,F.lvda,"Male specific interneuron, cell body in dorsorectal ganglion"
+144,,EF2,m,GABA,,Tail - DRG,,F.rvda,"Male specific interneuron, cell body in dorsorectal ganglion"
+145,,EF3,m,GABA,,Tail - PAG,,U.lap,"Male specific interneuron, cell body in preanal ganglion, synaptic inputs from ray neurons"
+146,,EF4,m,GABA,,Tail - PAG,,U.rap,"Male specific interneuron, cell body in preanal ganglion, synaptic inputs from ray neurons"
+147,FLP,FLPL,,Glutamate (Glu),,Head,,AB plapaaapad,"Neuron, ciliated ending in head, no supporting cells, associated with ILso"
+148,,FLPR,,Glutamate (Glu),,Head,,AB prapaaapad,"Neuron, ciliated ending in head, no supporting cells, associated with ILso"
+149,HOA,HOA,m,Tyramine (TA),Glu,Tail - PAG,,P10.pppa,"Male specific neuron, sensory ending in male hook sensillum, cell body in pre-anal ganglion"
+150,HOB,HOB,m,Acetylcholine (ACh),,Tail - PAG,,P10.ppap,"Male specific neuron, sensory ending in male hook sensillum, cell body in pre-anal ganglion"
+151,HSN,HSNL,h,Acetylcholine (ACh),Serotonin / 5HT,Body wall,,AB plapppappa,"Hermaphrodite specific motor neurons (die in male embryo), innervate vulval muscles, serotonergic"
+152,,HSNR,h,Acetylcholine (ACh),Serotonin / 5HT,Body wall,,AB prapppappa,"Hermaphrodite specific motor neurons (die in male embryo), innervate vulval muscles, serotonergic"
+153,I1,I1L,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron; P16: all pharyngeal neurons may be polymodal,AB alpapppaa,"Pharyngeal interneurons: ant sensory, input from RIP"
+154,,I1R,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron; WA: may be also sensory,AB arapappaa,"Pharyngeal interneurons: ant sensory, input from RIP"
+155,I2,I2L,,Glutamate (Glu),,Pharynx,Pharyngeal neuron,AB alpappaapa,"Pharyngeal interneurons, ant sensory"
+156,,I2R,,Glutamate (Glu),,Pharynx,Pharyngeal neuron,AB arapapaapa,"Pharyngeal interneurons, ant sensory"
+157,I3,I3,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron; WA: may be also sensory,MS aaaaapaa,"Pharyngeal interneuron, ant sensory"
+158,I4,I4,,Unknown,,Pharynx,Pharyngeal neuron,MS aaaapaa,Pharyngeal interneuron
+159,I5,I5,,Glutamate (Glu),Serotonin / 5HT?? (weak/variable),Pharynx,Pharyngeal neuron; WA: may be also sensory,AB arapapapp,"Pharyngeal interneuron, post sensory"
+160,I6,I6,,Unknown,,Pharynx,Pharyngeal neuron; WA: may be also sensory,MS paaapaa,"Pharyngeal interneuron, post sensory"
+161,IL1,IL1DL,,Glutamate (Glu),,Head,WA: polymodal; P16: also clearly a motor neuron,AB alapappaaa,Inner labial neuron
+162,,IL1DR,,Glutamate (Glu),,Head,,AB alappppaaa,Inner labial neuron
+163,,IL1L,,Glutamate (Glu),,Head,,AB alapaappaa,Inner labial neuron
+164,,IL1R,,Glutamate (Glu),,Head,,AB alaappppaa,Inner labial neuron
+165,,IL1VL,,Glutamate (Glu),,Head,,AB alppapppaa,Inner labial neuron
+166,,IL1VR,,Glutamate (Glu),,Head,,AB arapppppaa,Inner labial neuron
+167,IL2,IL2DL,,Acetylcholine (ACh),,Head,P16: also clearly a motor neuron,AB alapappap,Inner labial neuron
+168,,IL2DR,,Acetylcholine (ACh),,Head,,AB alappppap,Inner labial neuron
+169,,IL2L,,Acetylcholine (ACh),,Head,,AB alapaappp,Inner labial neuron
+170,,IL2R,,Acetylcholine (ACh),,Head,,AB alaappppp,Inner labial neuron
+171,,IL2VL,,Acetylcholine (ACh),,Head,,AB alppapppp,Inner labial neuron
+172,,IL2VR,,Acetylcholine (ACh),,Head,,AB arapppppp,Inner labial neuron
+173,LUA,LUAL,,Glutamate (Glu),,Tail - Lumbar G,,AB plpppaapap,"Interneuron, short process in post ventral cord"
+174,,LUAR,,Glutamate (Glu),,Tail - Lumbar G,,AB prpppaapap,"Interneuron, short process in post ventral cord"
+175,M1,M1,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron,MS paapaaa,Pharyngeal motorneuron
+176,M2,M2L,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron,AB araapappa,Pharyngeal motorneurons
+177,,M2R,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron,AB araappppa,Pharyngeal motorneurons
+178,M3,M3L,,Glutamate (Glu),,Pharynx,Pharyngeal neuron,AB araapappp,Pharyngeal sensory-motorneurons
+179,,M3R,,Glutamate (Glu),,Pharynx,Pharyngeal neuron,AB araappppp,Pharyngeal sensory-motorneurons
+180,M4,M4,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron,MS paaaaaa,Pharyngeal motorneuron
+181,M5,M5,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron,MS paaapap,Pharyngeal motorneuron
+182,MC,MCL,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron,AB alpaaappp,Pharyngeal neurons that synapse onto marginal cells
+183,MCM,MCML,m,Unknown,,Head,"only recently discovered (Sammut et al., 2015)",AB arapaappp,Pharyngeal neurons that synapse onto marginal cells
+184,,MCMR,m,Unknown,,Head,"only recently discovered (Sammut et al., 2015)",AmsoL,Male interneuron
+185,,MCR,,Acetylcholine (ACh),,Pharynx,Pharyngeal neuron,AmsoR,Male interneuron
+186,MI,MI,,Glutamate (Glu),,Pharynx,Pharyngeal neuron,AB araappaaa,Pharyngeal motor neuron/interneuron
+187,NSM,NSML,,Serotonin / 5HT, ,Pharynx,Pharyngeal neuron,AB araapapaav,"Pharyngeal neurosecretory motorneuron, contain serotonin"
+188,,NSMR,,Serotonin / 5HT,,Pharynx,Pharyngeal neuron,AB araapppaav,"Pharyngeal neurosecretory motorneuron, contain serotonin"
+189,OLL,OLLL,,Glutamate (Glu),,Head,,AB alppppapaa,Lateral outer labial neurons
+190,,OLLR,,Glutamate (Glu),,Head,,AB praaapapaa,Lateral outer labial neurons
+191,OLQ,OLQDL,,Glutamate (Glu),,Head,,AB alapapapaa,Quadrant outer labial neuron
+192,,OLQDR,,Glutamate (Glu),,Head,,AB alapppapaa,Quadrant outer labial neuron
+193,,OLQVL,,Glutamate (Glu),,Head,,AB plpaaappaa,Quadrant outer labial neuron
+194,,OLQVR,,Glutamate (Glu),,Head,,AB prpaaappaa,Quadrant outer labial neuron
+195,PCA,PCAL,m,Glutamate (Glu),,Tail - Cloacal G,,Y.plppd,"Male specific sensory-motor neuron, sensory ending in male postcloacal sensilla, cell body in left cloacal ganglion"
+196,,PCAR,m,Glutamate (Glu),,Tail - Cloacal G,,Y.prppd,"Male specific sensory-motor neuron, sensory ending in male postcloacal sensilla, cell body in right cloacal ganglion"
+197,PCB,PCBL,m,Acetylcholine (ACh),,Tail,,Y.plpa,"Male specific sensory-motor neuron, sensory ending in male postcloacal sensilla, cell body in left cloacal ganglion"
+198,,PCBR,m,Acetylcholine (ACh),,Tail,,Y.prpa,"Male specific sensory-motor neuron, sensory ending in male postcloacal sensilla, cell body in right cloacal ganglion"
+199,PCC,PCCL,m,Acetylcholine (ACh),,Tail,,B.arpaaa,"Male specific sensory-motor neuron, sensory ending in male postcloacal sensilla, cell body in left cloacal ganglion"
+200,,PCCR,m,Acetylcholine (ACh),,Tail,,B.alpaaa,"Male specific sensory-motor neuron, sensory ending in male postcloacal sensilla, cell body in right cloacal ganglion"
+201,PDA,PDA,,Acetylcholine (ACh),,Tail - PAG,,AB prpppaaaa,"Motor neuron, process in dorsal cord, same as Y cell in hermaphrodite, Y.a in male"
+202,PDB,PDB,,Acetylcholine (ACh),Glutamate (Glu) (adulte male-specific),Tail - PAG,*express eat-4/VGluT in adult male only; maintain ACh,P12.apa,"Motor neuron, process in dorsal cord, cell body in pre-anal ganglion"
+203,PDC,PDC,m,Acetylcholine (ACh),,Tail - PAG,,P11.papa,"Male specific interneuron, pre-anal ganglion"
+204,PDE,PDEL,,Dopamine (DA),,Body wall,,V5L.paaa,"Neuron, dopaminergic of postderid sensillum"
+205,,PDER,,Dopamine (DA),,Body wall,,V5R.paaa,"Neuron, dopaminergic of postderid sensillum"
+206,PGA,PGA,m,Acetylcholine (ACh),Serotonin / 5HT,Tail - PAG,,P11.papp,"Male specific interneuron, pre-anal ganglion"
+207,PHA,PHAL,,Glutamate (Glu),,Tail - Lumbar G,,AB plpppaapp,"Phasmid neurons, chemosensory"
+208,,PHAR,,Glutamate (Glu),,Tail - Lumbar G,,AB prpppaapp,"Phasmid neurons, chemosensory"
+209,PHB,PHBL,,Glutamate (Glu),Serotonin / 5HT?? (weak/variable),Tail - Lumbar G,,AB plapppappp,"Phasmid neurons, chemosensory"
+210,,PHBR,,Glutamate (Glu),Serotonin / 5HT?? (weak/variable),Tail - Lumbar G,,AB prapppappp,"Phasmid neurons, chemosensory"
+211,PHC,PHCL,(m-s)*,Glutamate (Glu),,Tail - Lumbar G,*express eat-4/VGluT in adult male only,TL.pppaa,"Neuron, striated rootlet in male, possibly sensory in tail spike"
+212,,PHCR,(m-s)*,Glutamate (Glu),,Tail - Lumbar G,*express eat-4/VGluT in adult male only,TR.pppaa,"Neuron, striated rootlet in male, possibly sensory in tail spike"
+213,PLM,PLML,,Glutamate (Glu),,Tail - Lumbar G,,AB plapappppaa,"Posterior lateral microtubule cells, touch receptor neurons"
+214,,PLMR,,Glutamate (Glu),,Tail - Lumbar G,,AB prapappppaa,"Posterior lateral microtubule cells, touch receptor neurons"
+215,PLN,PLNL,,Acetylcholine (ACh),,Tail,,TL.pppap,"Interneuron, associated with PLM"
+216,,PLNR,,Acetylcholine (ACh),,Tail,,TR.pppap,"Interneuron, associated with PLM"
+217,PQR,PQR,(h-s)*,Glutamate (Glu),,Tail - Lumbar G,*adult male loses expression of eat-4/VGluT,QL.ap,"Neuron, basal body, not part of a sensillum, projects into preanal ganglion"
+218,PVC,PVCL,,Acetylcholine (ACh),,Tail,,AB plpppaapaa,"Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB and DB motor neurons, formerly called delta"
+219,,PVCR,,Acetylcholine (ACh),,Tail,,AB prpppaapaa,"Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB and DB motor neurons, formerly called delta"
+220,PVD,PVDL,,Glutamate (Glu),,Body wall,,V5L.paapa,"Neuron, lateral process adjacent to excretory canal"
+221,,PVDR,,Glutamate (Glu),,Body wall,,V5R.paapa,"Neuron, lateral process adjacent to excretory canal"
+222,PVM,PVM,,Unknown,,Body wall,,QL.paa,"Posterior ventral microtubule cell, touch receptor"
+223,PVN,PVNL,,"ACh (unc-17, no cho-1)",Glutamate (Glu) (adulte male-specific),Tail,"P16: only very few minor NMJs, more prominent neuron-neuron synapses",TL.appp,"Interneuron/motor neuron, post. vent. cord, few synapses"
+224,,PVNR,,"ACh (unc-17, no cho-1)",Glutamate (Glu) (adulte male-specific),Tail,,TR.appp,"Interneuron/motor neuron, post. vent. cord, few synapses"
+225,PVP,PVPL, 'h'   ,Acetylcholine (ACh),,Tail - PAG,"Same cell by lineage as PVU in male, hermaphrodite-specific name of cell",AB plppppaaa,"Interneuron, cell body in preanal ganglion, projects along ventral cord to nerve ring"
+226,,PVPR, 'h'   ,Acetylcholine (ACh),,Tail - PAG,"Same cell by lineage as PVS in male, hermaphrodite-specific name of cell",AB prppppaaa,"Interneuron, cell body in preanal ganglion, projects along ventral cord to nerve ring"
+227,PVQ,PVQL,,Glutamate (Glu),,Tail - Lumbar G,,AB plapppaaa,"Interneuron, projects along ventral cord to ring"
+228,,PVQR,,Glutamate (Glu),,Tail - Lumbar G,,AB prapppaaa,"Interneuron, projects along ventral cord to ring"
+229,PVR,PVR,,Glutamate (Glu),,Tail - Lumbar G,,C aappa,"Interneuron, projects along ventral cord to ring"
+230,PVS,PVS,m,Unknown,,Tail - PAG,Same cell by lineage as PVPR in hermaphrodite,AB prppppaaa,"PVPR interneuron of male, cell body in preanal ganglion, sexually dimorphic connectivity"
+231,PVT,PVT,,Unknown,,Tail - PAG,,AB plpappppa,"Interneuron, projects along ventral cord to ring"
+232,PVU,PVU, 'm'   ,Acetylcholine (ACh),,Tail - PAG,Same cell by lineage as PVPL in hermaphrodite,AB plppppaaa,"PVPL interneuron of male, cell body in preanal ganglion, sexually dimorphic connectivity"
+233,PVV,PVV,m,Acetylcholine (ACh),Glu,Tail - PAG,,P11.paaa,"Male specific motor neuron, pre-anal ganglion"
+234,PVW,PVWL,,Unknown,,Tail - Lumbar G,,TL.ppa,"Interneuron, posterior ventral cord, few synapses"
+235,,PVWR,,Unknown,,Tail - Lumbar G,,TR.ppa,"Interneuron, posterior ventral cord, few synapses"
+236,PVX,PVX,m,Acetylcholine (ACh),,Tail - PAG,,P11.paap,"Male specific interneuron, cell body in pre-anal ganglion"
+237,PVY,PVY,m,Acetylcholine (ACh),,Tail - PAG,,P12.aap,"Male specific interneuron, cell body in pre-anal ganglion, postsynaptic in ring and ventral cord"
+238,PVZ,PVZ,m,Acetylcholine (ACh),,Tail - PAG,,P10.ppppa,"Male specific motor neuron, cell body in pre-anal ganglion"
+239,R1A,R1AL,m,Acetylcholine (ACh),,Tail - Lumbar G,,"V5L.pppppaaa, (R1.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in left lumbar ganglion"
+240,,R1AR,m,Acetylcholine (ACh),,Tail - Lumbar G,,"V5R.pppppaaa, (R1.aaaR)","Male sensory rays, neuron, striated rootlet, cell body in right lumbar ganglion"
+241,R1B,R1BL,m,Serotonin / 5HT,,Tail - Lumbar G,,"V5L.pppppapa, (R1.apaL)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in left lumbar ganglion"
+242,,R1BR,m,Serotonin / 5HT,,Tail - Lumbar G,,"V5R.pppppapa, (R1.apaR)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in right lumbar ganglion"
+243,R2A,R2AL,m,Acetylcholine (ACh),GABA,Tail - Lumbar G,,"V6L.papapaaa, (R2.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in left lumbar ganglion"
+244,,R2AR,m,Acetylcholine (ACh),GABA,Tail - Lumbar G,,"V6R.papapaaa, (R2.aaaR)","Male sensory rays, neuron, striated rootlet, cell body in right lumbar ganglion"
+245,R2B,R2BL,m,Glutamate (Glu),,Tail - Lumbar G,,"V6L.papapapa, (R2.apaL)","Male sensory rays, neuron, darkly staining tip, open to outside,cell body in left lumbar ganglion"
+246,,R2BR,m,Glutamate (Glu),,Tail - Lumbar G,,"V6R.papapapa, (R2.apaL)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in right lumbar ganglion"
+247,R3A,R3AL,m,Acetylcholine (ACh),,Tail - Lumbar G,,"V6L.papppaaa, (R3.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in left lumbar ganglion"
+248,,R3AR,m,Acetylcholine (ACh),,Tail - Lumbar G,,"V6R.papppaaa, (R3.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in right lumbar ganglion"
+249,R3B,R3BL,m,Serotonin / 5HT,,Tail - Lumbar G,,"V6L.papppapa, (R3.apaL)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in left lumbar ganglion"
+250,,R3BR,m,Serotonin / 5HT,,Tail - Lumbar G,,"V6R.papppapa, (R3.apaR)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in right lumbar ganglion"
+251,R4A,R4AL,m,Acetylcholine (ACh),,Tail - Lumbar G,,"V6L.pppapaaa, (R4.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in left lumbar ganglion"
+252,,R4AR,m,Acetylcholine (ACh),,Tail - Lumbar G,,"V6R.pppapaaa, (R4.aaaR)","Male sensory rays, neuron, striated rootlet, cell body in right lumbar ganglion"
+253,R4B,R4BL,m,Unknown,,Tail - Lumbar G,,"V6L.pppapapa, (R4.apaL)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in left lumbar ganglion"
+254,,R4BR,m,Unknown,,Tail - Lumbar G,,"V6R.pppapapa, (R4.apaR)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in right lumbar ganglion"
+255,R5A,R5AL,m,Dopamine (DA),Glu,Tail - Lumbar G,"also possibly Gly?? - express VGAT; but are GAD, GABA-IR(-)","V6L.pppppaaa, (R5.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in left lumbar ganglion"
+256,,R5AR,m,Dopamine (DA),Glu,Tail - Lumbar G,"also possibly Gly?? - express VGAT; but are GAD, GABA-IR(-)","V6R.pppppaaa, (R5.aaaR)","Male sensory rays, neuron, striated rootlet, cell body in right lumbar ganglion"
+257,R5B,R5BL,m,Unknown,,Tail - Lumbar G,,"V6L.pppppapa, (R5.apaL)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in left lumbar ganglion"
+258,,R5BR,m,Unknown,,Tail - Lumbar G,,"V6R.pppppapa, (R5.apaR)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in right lumbar ganglion"
+259,R6A,R6AL,m,Acetylcholine (ACh),GABA,Tail - Lumbar G,,"V6L.ppppaaaa, (R6.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in left lumbar ganglion"
+260,,R6AR,m,Acetylcholine (ACh),GABA,Tail - Lumbar G,,"V6R.ppppaaaa, (R6.aaaR)","Male sensory rays, neuron, striated rootlet, cell body in right lumbar ganglion"
+261,R6B,R6BL,m,Glutamate (Glu),,Tail - Lumbar G,,"V6L.ppppaapa, (R6.apaL)","Male sensory rays, neuron, not darkly staining nor open to outside, cell body in left lumbar ganglion"
+262,,R6BR,m,Glutamate (Glu),,Tail - Lumbar G,,"V6R.ppppaapa, (R6.apaR)","Male sensory rays, neuron, not darkly staining nor open to outside, cell body in right lumbar ganglion"
+263,R7A,R7AL,m,Dopamine (DA),,Tail - Lumbar G,,"TL.apappaaa, (R7.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in left lumbar ganglion"
+264,,R7AR,m,Dopamine (DA),,Tail - Lumbar G,,"TR.apappaaa, (R7.aaaR)","Male sensory rays, neuron, striated rootlet, cell body in right lumbar ganglion"
+265,R7B,R7BL,m,Unknown,,Tail - Lumbar G,,"TL.apappapa, (R7.apaL)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in left lumbar ganglion"
+266,,R7BR,m,Unknown,,Tail - Lumbar G,,"TR.apappapa, (R7.apaR)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in right lumbar ganglion"
+267,R8A,R8AL,m,ACh,Tyramine (TA),Tail - Lumbar G,"Evidence for Ach weak; possibly also tyraminergic? (express tdc-1, but not cat-1/VMAT)","TL.appaaaaa, (R8.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in left lumbar ganglion"
+268,,R8AR,m,ACh,Tyramine (TA),Tail - Lumbar G,"Evidence for Ach weak; possibly also tyraminergic? (express tdc-1, but not cat-1/VMAT)","TR.appaaaaa, (R8.aaaR)","Male sensory rays, neuron, striated rootlet, cell body in right lumbar ganglion"
+269,R8B,R8BL,m,ACh,Tyramine (TA),Tail - Lumbar G,"Evidence for Ach weak; possibly also tyraminergic? (express tdc-1, but not cat-1/VMAT)","TL.appaaapa, (R8.apaL)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in left lumbar ganglion"
+270,,R8BR,,ACh,Tyramine (TA),Tail - Lumbar G,"Evidence for Ach weak; possibly also tyraminergic? (express tdc-1, but not cat-1/VMAT)","TR.appaaapa, (R8.apaR)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in right lumbar ganglion"
+271,R9A,R9AL,m,Dopamine (DA),Glu,Tail - Lumbar G,"also possibly Gly?? - express VGAT; but are GAD, GABA-IR(-)","TL.appapaaa, (R9.aaaL)","Male sensory rays, neuron, striated rootlet, cell body in left lumbar ganglion"
+272,,R9AR,m,Dopamine (DA),Glu,Tail - Lumbar G,"also possibly Gly?? - express VGAT; but are GAD, GABA-IR(-)","TR.appapaaa, (R9.aaaR)","Male sensory rays, neuron, striated rootlet, cell body in right lumbar ganglion"
+273,R9B,R9BL,m,Serotonin / 5HT,GABA,Tail - Lumbar G,,"TL.appapapa, (R9.apaL)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in left lumbar ganglion"
+274,,R9BR,m,Serotonin / 5HT,GABA,Tail - Lumbar G,,"TR.appapapa, (R9.apaR)","Male sensory rays, neuron, darkly staining tip, open to outside, cell body in right lumbar ganglion"
+275,RIA,RIAL,,Glutamate (Glu),,Tail - PAG,,AB alapaapaa,"Ring interneuron, many synapses"
+276,,RIAR,,Glutamate (Glu),,Head,,AB alaapppaa,"Ring interneuron, many synapses"
+277,RIB,RIBL,,Acetylcholine (ACh),,Head,,AB plpaappap,Ring interneuron
+278,,RIBR,,Acetylcholine (ACh),,Head,,AB prpaappap,Ring interneuron
+279,RIC,RICL,,Octopamine (OA),,Head,,AB plppaaaapp,Ring interneuron
+280,,RICR,,Octopamine (OA),,Head,,AB prppaaaapp,Ring interneuron
+281,RID,RID,,Unknown,,Head,,AB alappaapa,"Ring interneuron, projects along dorsal cord"
+282,RIF,RIFL,,Acetylcholine (ACh),,Head - RVG,,AB plppapaaap,Ring interneuron
+283,,RIFR,,Acetylcholine (ACh),,Head - RVG,,AB prppapaaap,Ring interneuron
+284,RIG,RIGL,,Glutamate (Glu),,Head - RVG,,AB plppappaa,Ring interneuron
+285,,RIGR,,Glutamate (Glu),,Head - RVG,,AB prppappaa,Ring interneuron
+286,RIH,RIH,,Acetylcholine (ACh),Serotonin/5HT,Head,,AB prpappaaa,Ring interneuron
+287,RIM,RIML,,Tyramine (TA),Glu,Head,,AB plppaapap,Ring motor neuron
+288,,RIMR,,Tyramine (TA),Glu,Head,,AB prppaapap,Ring motor neuron
+289,RIP,RIPL,,Unknown,,Head,,AB alpapaaaa,"Ring/pharynx interneuron, only direct connection between pharynx and ring"
+290,,RIPR,,Unknown,,Head,,AB arappaaaa,"Ring/pharynx interneuron, only direct connection between pharynx and ring"
+291,RIR,RIR,,Acetylcholine (ACh),,Head,,AB prpapppaa,Ring interneuron
+292,RIS,RIS,,GABA,,Head,,AB prpappapa,Ring interneuron
+293,RIV,RIVL,,Acetylcholine (ACh),,Head,"P16: only very few minor NMJs, more prominent neuron-neuron synapses",AB plpaapaaa,Ring interneuron
+294,,RIVR,,Acetylcholine (ACh),,Head,,AB prpaapaaa,Ring interneuron
+295,RMD,RMDDL,,Acetylcholine (ACh),,Head,,AB alpapapaa,"Ring motor neuron/interneuron, many synapses"
+296,,RMDDR,,Acetylcholine (ACh),,Head,,AB arappapaa,"Ring motor neuron/interneuron, many synapses"
+297,,RMDL,,Acetylcholine (ACh),,Head,,AB alpppapad,"Ring motor neuron/interneuron, many synapses"
+298,,RMDR,,Acetylcholine (ACh),,Head,,AB praaaapad,"Ring motor neuron/interneuron, many synapses"
+299,,RMDVL,,Acetylcholine (ACh),,Head,,AB alppapaaa,"Ring motor neuron/interneuron, many synapses"
+300,,RMDVR,,Acetylcholine (ACh),,Head,,AB arapppaaa,"Ring motor neuron/interneuron, many synapses"
+301,RME,RMED,,GABA,,Head,,AB alapppaap,Ring motor neuron
+302,,RMEL,,GABA,,Head,,AB alaaaarlp,Ring motor neuron
+303,,RMER,,GABA,,Head,,AB alaaaarrp,Ring motor neuron
+304,,RMEV,,GABA,,Head,,AB plpappaaa,Ring motor neuron
+305,RMF,RMFL,,Acetylcholine (ACh),,Head,,G2.al,Ring motor neuron/interneuron
+306,,RMFR,,Acetylcholine (ACh),,Head,,G2.ar,Ring motor neuron/interneuron
+307,RMG,RMGL,,Unknown,,Head,,AB plapaaapp,Ring interneuron
+308,,RMGR,,Unknown,,Head,,AB prapaaapp,Ring interneuron
+309,RMH,RMHL,,Acetylcholine (ACh),,Head,,G1.l,Ring motor neuron/interneuron
+310,,RMHR,,Acetylcholine (ACh),,Head,,G1.r,Ring motor neuron/interneuron
+311,SAA,SAADL,,Acetylcholine (ACh),,Head,,AB alppapapa,"Ring interneuron, anteriorly projecting process that runs sublaterally"
+312,,SAADR,,Acetylcholine (ACh),,Head,,AB arapppapa,"Ring interneuron, anteriorly projecting process that runs sublaterally"
+313,,SAAVL,,Acetylcholine (ACh),,Head,,AB plpaaaaaa,"Ring interneuron, anteriorly projecting process that runs sublaterally"
+314,,SAAVR,,Acetylcholine (ACh),,Head,,AB prpaaaaaa,"Ring interneuron, anteriorly projecting process that runs sublaterally"
+315,SAB,SABD,,Acetylcholine (ACh),,Head,P16: clearly makes neuromuscular junctions,AB plppapaap,"Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1"
+316,,SABVL,,Acetylcholine (ACh),,Head,,AB plppapaaaa,"Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1"
+317,,SABVR,,Acetylcholine (ACh),,Head,,AB prppapaaaa,"Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1"
+318,SDQ,SDQL,,Acetylcholine (ACh),,Body wall,WA: minor oxygen-sensory,QL.pap,"Post. lateral interneuron, process projects into ring"
+319,,SDQR,,Acetylcholine (ACh),,Body wall,,QR.pap,"Ant. lateral interneuron, process projects into ring"
+320,SIA,SIADL,,Acetylcholine (ACh),,Head,P16: clearly makes neuromuscular junctions,AB plpapaapa,"Receive a few synapses in the ring, have posteriorly directed processes that run sublaterally"
+321,,SIADR,,Acetylcholine (ACh),,Head,,AB prpapaapa,"Receive a few synapses in the ring, have posteriorly directed processes that run sublaterally"
+322,,SIAVL,,Acetylcholine (ACh),,Head,,AB plpapappa,"Receive a few synapses in the ring, have posteriorly directed processes that run sublaterally"
+323,,SIAVR,,Acetylcholine (ACh),,Head,,AB prpapappa,"Receive a few synapses in the ring, have posteriorly directed processes that run sublaterally"
+324,SIB,SIBDL,,Acetylcholine (ACh),,Head,"P16: sensory, clearly makes neuromuscular junctions",AB plppaaaaa,Similar to SIA
+325,,SIBDR,,Acetylcholine (ACh),,Head,,AB prppaaaaa,Similar to SIA
+326,,SIBVL,,Acetylcholine (ACh),,Head,,AB plpapaapp,Similar to SIA
+327,,SIBVR,,Acetylcholine (ACh),,Head,,AB prpapaapp,Similar to SIA
+328,SMB,SMBDL,,Acetylcholine (ACh),,Head,,AB alpapapapp,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally"
+329,,SMBDR,,Acetylcholine (ACh),,Head,,AB arappapapp,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally"
+330,,SMBVL,,Acetylcholine (ACh),,Head,,AB alpapappp,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally"
+331,,SMBVR,,Acetylcholine (ACh),,Head,,AB arappappp,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally"
+332,SMD,SMDDL,,Acetylcholine (ACh),,Head,,AB plpapaaaa,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally"
+333,,SMDDR,,Acetylcholine (ACh),,Head,,AB prpapaaaa,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally"
+334,,SMDVL,,Acetylcholine (ACh),,Head,,AB alppappaa,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally"
+335,,SMDVR,,Acetylcholine (ACh),,Head,,AB arappppaa,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally"
+336,SPC,SPCL,m,Acetylcholine (ACh),,Tail - Cloacal G,,B.alpaap,"Male specific sensory/motor neuron, innervates spicule protractor muscle, cell body in left cloacal ganglion"
+337,,SPCR,m,Acetylcholine (ACh),,Tail - Cloacal G,,B.arpaap,"Male specific sensory/motor neuron, innervates spicule protractor muscle, cell body in right cloacal ganglion"
+338,SPD,SPDL,m,Unknown,,Tail - Cloacal G,,B.alpapaa,"Male specific sensory neuron of male copulatory spicules, ciliated, open to outside at tip of spicule, cell body in left cloacal ganglion"
+339,,SPDR,m,Unknown,,Tail - Cloacal G,,B.arpapaa,"Male specific sensory neuron of male copulatory spicules, ciliated, open to outside at tip of spicule, cell body in right cloacal ganglion"
+340,SPSo *,SPSoL,m,Dopamine (DA),,Tail,"*non-neuronal support cell, syncitial with 4 nuclei",4 B.a(l/r)-derived,"Male specific spicule socket cell syncitium, surrounding spicule sheath cell (SPsh), which surrounds spicule sensory neurons (SPD and SPV)"
+341,,SPSoR,m,Dopamine (DA),,Tail,"*non-neuronal support cell, syncitial with 4 nuclei",4 B.a(l/r)-derived,"Male specific spicule socket cell syncitium, surrounding spicule sheath cell (SPsh), which surrounds spicule sensory neurons (SPD and SPV)"
+342,SPV,SPVL,m,Acetylcholine (ACh),,Tail - Cloacal G,,B.al/raalda,"Male specific sensory neuron of male copulatory spicules, ciliated, open to outside at tip of spicule, cell body in left cloacal ganglion"
+343,,SPVR,m,Acetylcholine (ACh),,Tail - Cloacal G,,B.al/raarda,"Male specific sensory neuron of male copulatory spicules, ciliated, open to outside at tip of spicule, cell body in right cloacal ganglion"
+344,URA,URADL,,Acetylcholine (ACh),,Head,"P16: sensory, also clearly a motor neuron",AB plaaaaaaa,Ring motor neuron
+345,,URADR,,Acetylcholine (ACh),,Head,,AB arpapaaaa,Ring motor neuron
+346,,URAVL,,Acetylcholine (ACh),,Head,,AB plpaaapaa,Ring motor neuron
+347,,URAVR,,Acetylcholine (ACh),,Head,,AB prpaaapaa,Ring motor neuron
+348,URB,URBL,,Acetylcholine (ACh),,Head,,AB plaapaapa,"Neuron, presynaptic in ring, ending in head"
+349,,URBR,,Acetylcholine (ACh),,Head,,AB praapaapa,"Neuron, presynaptic in ring, ending in head"
+350,URX,URXL,,Acetylcholine (ACh),Serotonin / 5HT?? (weak/variable),Head,,AB plaaaaappp,Ring interneuron
+351,,URXR,,Acetylcholine (ACh),Serotonin / 5HT?? (weak/variable),Head,,AB arpapaappp,Ring interneuron
+352,URY,URYDL,,Glutamate (Glu),,Head,,AB alapapapp,"Neuron, presynaptic in ring, ending in head"
+353,,URYDR,,Glutamate (Glu),,Head,,AB alapppapp,"Neuron, presynaptic in ring, ending in head"
+354,,URYVL,,Glutamate (Glu),,Head,,AB plpaaappp,"Neuron, presynaptic in ring, ending in head"
+355,,URYVR,,Glutamate (Glu),,Head,,AB prpaaappp,"Neuron, presynaptic in ring, ending in head"
+356,VA,VA1,,Acetylcholine (ACh),,Head - RVG,,W.pa,"Ventral cord motor neuron, innervates vent. body muscles"
+357,,VA2,,Acetylcholine (ACh),,VNC,,P2.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+358,,VA3,,Acetylcholine (ACh),,VNC,,P3.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+359,,VA4,,Acetylcholine (ACh),,VNC,,P4.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+360,,VA5,,Acetylcholine (ACh),,VNC,,P5.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+361,,VA6,,Acetylcholine (ACh),,VNC,,P6.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+362,,VA7,,Acetylcholine (ACh),,VNC,,P7.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+363,,VA8,,Acetylcholine (ACh),,VNC,,P8.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+364,,VA9,,Acetylcholine (ACh),,VNC,,P9.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+365,,VA10,,Acetylcholine (ACh),,VNC,,P10.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+366,,VA11,,Acetylcholine (ACh),,VNC,,P11.aaaa,"Ventral cord motor neuron, innervates vent. body muscles"
+367,,VA12,,Acetylcholine (ACh),,Tail - PAG,,P12.aaaa,"Ventral cord motor neuron, innervates vent. body muscles, but also interneuron in preanal ganglion"
+368,VB,VB1,,Acetylcholine (ACh),,Head - RVG,Also proprioceptive sensory neuron,P1.aaap,"Ventral cord motor neuron, innervates vent. body muscles, also interneuron in ring"
+369,,VB2,,Acetylcholine (ACh),,Head - RVG,,W.aap,"Ventral cord motor neuron, innervates vent. body muscles"
+370,,VB3,,Acetylcholine (ACh),,VNC,,P2.aaap,"Ventral cord motor neuron, innervates vent. body muscles"
+371,,VB4,,Acetylcholine (ACh),,VNC,,P3.aaap,"Ventral cord motor neuron, innervates vent. body muscles"
+372,,VB5,,Acetylcholine (ACh),,VNC,,P4.aaap,"Ventral cord motor neuron, innervates vent. body muscles"
+373,,VB6,,Acetylcholine (ACh),,VNC,,P5.aaap,"Ventral cord motor neuron, innervates vent. body muscles"
+374,,VB7,,Acetylcholine (ACh),,VNC,,P6.aaap,"Ventral cord motor neuron, innervates vent. body muscles"
+375,,VB8,,Acetylcholine (ACh),,VNC,,P7.aaap,"Ventral cord motor neuron, innervates vent. body muscles"
+376,,VB9,,Acetylcholine (ACh),,VNC,,P8.aaap,"Ventral cord motor neuron, innervates vent. body muscles"
+377,,VB10,,Acetylcholine (ACh),,VNC,,P9.aaap,"Ventral cord motor neuron, innervates vent. body muscles"
+378,,VB11,,Acetylcholine (ACh),,VNC,,P10.aaap,"Ventral cord motor neuron, innervates vent. body muscles"
+379,VC,VC1,h,Acetylcholine (ACh),,VNC,,P3.aap,Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles
+380,,VC2,h,Acetylcholine (ACh),,VNC,,P4.aap,Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles
+381,,VC3,h,Acetylcholine (ACh),,VNC,,P5.aap,Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles
+382,,VC4,h,Acetylcholine (ACh),Serotonin / 5HT (weak/variable),VNC,,P6.aap,Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles
+383,,VC5,h,Acetylcholine (ACh),Serotonin / 5HT (weak/variable),VNC,,P7.aap,Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles
+384,,VC6,h,Acetylcholine (ACh),,VNC,,P8.aap,Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles
+385,VD,VD1,,GABA,,Head - RVG,,W.pp,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+386,,VD2,,GABA,,Head - RVG,,P1.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+387,,VD3,,GABA,,VNC,,P2.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+388,,VD4,,GABA,,VNC,,P3.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+389,,VD5,,GABA,,VNC,,P4.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+390,,VD6,,GABA,,VNC,,P5.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+391,,VD7,,GABA,,VNC,,P6.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+392,,VD8,,GABA,,VNC,,P7.app,"Ventralcord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+393,,VD9,,GABA,,VNC,,P8.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+394,,VD10,,GABA,,VNC,,P9.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+395,,VD11,,GABA,,VNC,,P10.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+396,,VD12,,GABA,,Tail - PAG,,P11.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+397,,VD13,,GABA,,Tail - PAG,,P12.app,"Ventral cord motor neuron, innervates vent body muscles, reciprocal inhibitor"
+398,ASEL,,,Glutamate (Glu),,,,,
+399,ASER,,,Glutamate (Glu),,,,,
+400,AWC_OFF,,,Glutamate (Glu),,,,,
+401,DA9,,,Acetylcholine (ACh),,,,,
+402,DB01,,,Acetylcholine (ACh),,,,,
+403,IL2_DV,,,Acetylcholine (ACh),,,,,
+404,AWC_ON,,,Glutamate (Glu),,,,,
+405,IL2_LR,,,Acetylcholine (ACh),,,,,
+406,RMD_DV,,,Acetylcholine (ACh),,,,,
+407,RMD_LR,,,Acetylcholine (ACh),,,,,
+408,RME_DV,,,GABA,,,,,
+409,RME_LR,,,GABA,,,,,
+410,VA12,,,Acetylcholine (ACh),,,,,
+411,VB01,,,Acetylcholine (ACh),,,,,
+412,VB02,,,Acetylcholine (ACh),,,,,
+413,VC_4_5,,,Acetylcholine (ACh),,,,,
+414,VD_DD,,,GABA,,,,,
+Column h/m indicates whether a cell is hermaphrodite- or male-specific. 'h' or 'm' - indicates a hermaphrodite- or male-specific cell NAME (see notes on PVP/PVU/PVS).,,,,,,,,,
